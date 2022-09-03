@@ -1,0 +1,18 @@
+.wrapper{
+	width: 60px;
+	margin: 0 auto;
+	border: 5px solid #add;
+
+}
+
+.label{
+	font-size: 20px;
+
+}
+
+.first_name, .last_name{
+	width: 90%;
+	height: 20px;
+	padding: 10px;
+	font-size: 18px;
+}
